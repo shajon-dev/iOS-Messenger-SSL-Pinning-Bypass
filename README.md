@@ -1,12 +1,12 @@
-# 🔐 iOS-Messenger-SSL-Pinning-Bypass
+## 🔐 iOS-Messenger-SSL-Pinning-Bypass
 📡 Intercept Messenger networks traffic on iOS device
 
 ## 📌 Latest Tested App Version
-- 🎯 Messenger version: **536.0.0.37.215**
+- 🎯 Messenger version: **550.0.0.28.106**
 
 ## 🎥 Evidence
 
-![Messenger](https://raw.githubusercontent.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass/refs/heads/main/asstes/v536.jpg)
+![Messenger](https://raw.githubusercontent.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass/refs/heads/main/asstes/v550.jpg)
 
 
 ## Other Apps
@@ -28,8 +28,10 @@
 2. 📊 Run Mitmproxy or Reqable or BurpSuit to capture traffic  
 
 ## 🆘 Need Modified IPA? Contact Me
-<p align="left">
-  <a href="https://t.me/DarknessKing999" target="_blank">
-    <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
-  </a>
-</p>
+ - Check the **Releases** section for the free version.  
+ - For the **latest version**, please contact me on Telegram (paid).
+ <p align="left">
+   <a href="https://t.me/DarknessKing999" target="_blank">
+     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
+   </a>
+ </p>
