@@ -3,7 +3,7 @@
 
 ## 📌 Latest Bypassed and Tested App Details
 - App version: **558.1.0.34.110**
-- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
+- Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
@@ -60,7 +60,7 @@ If this project helped you, consider buying me a coffee! ❤️
 
 ## 📱 Requirements
 1. 🔓 iPhone / iPad [No need jailbroken device]
-2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
+2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 
 ## 🔧 Setup Process
  1. 🔄 **Install Modified IPA** via [Feather](https://github.com/CLARATION/Feather) or [Ksign](https://github.com/Nyasami/Ksign).
