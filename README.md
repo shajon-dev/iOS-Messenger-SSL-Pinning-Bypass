@@ -4,7 +4,7 @@
 ## 📌 Latest Bypassed and Tested App Details
 - App version: **563.0.0.27.106**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
-- For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
+- For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
 ![Messenger iOS](assets/v563.jpg)
@@ -37,7 +37,7 @@
       <td rowspan="2" align="center"><code>com.facebook.Messenger</code></td>
       <td align="center">563.0.0.27.106</td>
       <td align="center">✅ Bypassed</td>
-      <td align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
+      <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>
     <tr>
       <td align="center">519.0.0.52.111</td>
@@ -69,7 +69,7 @@ If this project helped you, consider buying me a coffee! ❤️
 
 ## Looking for leatest version bypassed IPA? Contact me on Telegram
 <p align="left">
-  <a href="https://t.me/DarknessKing999" target="_blank">
+  <a href="https://t.me/SHAJON" target="_blank">
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
