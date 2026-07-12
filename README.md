@@ -2,12 +2,12 @@
 📡 Intercept Messenger network traffic on iOS/iPad OS device.
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **563.0.0.27.106**
+- App version: **569.0.0.16.107**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Messenger iOS](assets/v563.jpg)
+![Messenger iOS](assets/v569.jpg)
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.facebook.Messenger</code></td>
-      <td align="center">563.0.0.27.106</td>
+      <td align="center">569.0.0.16.107</td>
       <td align="center">✅ Bypassed</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>
