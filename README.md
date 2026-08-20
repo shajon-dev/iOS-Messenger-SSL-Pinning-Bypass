@@ -1,13 +1,25 @@
+<div align="center">
+
 # 🔐 iOS-Messenger-SSL-Pinning-Bypass
-📡 Intercept Messenger network traffic on iOS/iPad OS device.
+📡 Capture and inspect Messenger's network traffic on iOS — no jailbreak required.
+
+> 💡 **GOOD NEWS:** You do **not** need a jailbroken device to use this! It works flawlessly on **non-jailbroken** devices and has been successfully tested using **Mitmproxy**.
+
+</div>
+
+---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **572.0.0.23.108**
+- App version: **574.0.0.23.109**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
+---
+
 ## 🎥 Evidence
-![Messenger iOS](assets/v572.jpg)
+![Messenger iOS](assets/v574.jpg)
+
+---
 
 ## ✅ Other Apps
 1. [Facebook Android](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass)
@@ -19,9 +31,12 @@
 7. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
 8. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
 9. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
+10. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
+
+---
 
 ## 📦 For Demo - Download Modified IPA
-  - For any issues, contact me on Telegram. Read README.md carefully before use.
+  - For any issues, contact me on Telegram. Read [setup process](#-setup-process) carefully before use.
   - Please note that the latest version is a paid release and is not available for free download.
   - Check the **Releases** section for the free version or click download link below.
 <table width="100%">
@@ -30,51 +45,86 @@
       <th align="center">Package Name</th>
       <th align="center">Version</th>
       <th align="center">Status</th>
+      <th align="center">Non-Jailbreak</th>
       <th align="center">Download link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" align="center"><code>com.facebook.Messenger</code></td>
-      <td align="center">572.0.0.23.108</td>
+      <td rowspan="3" align="center"><code>com.facebook.Messenger</code></td>
+      <td align="center">574.0.0.23.109</td>
       <td align="center">✅ Bypassed</td>
+      <td align="center">✅ Yes</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>
     <tr>
-      <td align="center">519.0.0.52.111</td>
+      <td align="center">520.0.0.62.107</td>
       <td align="center">✅ Bypassed</td>
+      <td align="center">✅ Yes</td>
+      <td align="center"><a href="https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass/releases">Download Link</a></td>
+    </tr>
+    <tr>
+      <td align="center">500.0.0.58.107</td>
+      <td align="center">✅ Bypassed</td>
+      <td align="center">✅ Yes</td>
       <td align="center"><a href="https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass/releases">Download Link</a></td>
     </tr>
   </tbody>
 </table>
 
-## ☕ Buy Me a Coffee
+---
 
-If this project helped you, consider buying me a coffee! ❤️
+<div align="center">
 
-| Coin | Network | Address |
-| :--- | :--- | :--- |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/history/bnb-bnb-logo.svg" width="20" /></td><td>&nbsp;<b>Binance</b></td></tr></table> | Binance Pay (UID) | `839622149` |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/tether-usdt-logo.svg" width="20" /></td><td>&nbsp;<b>USDT</b></td></tr></table> | TRC20 [TRX Network] | `TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH` |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | `0x22d4f314acbf6055b0a37df8df68f9cd40ba889a` |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | `14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE` |
+### ⭐ Found this useful?
+
+**Star the repository** to support the project and stay updated with new free releases!
+
+</div>
+
+---
 
 ## 📱 Requirements
-1. 🔓 iPhone / iPad [No need jailbroken device]
-2. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
+1. 📱 **Operating System:** iOS or iPadOS 17.0 and above.
+2. 🔓 **Device Status:** Non-jailbroken devices are fully supported (no jailbreak required).
+3. 🔄 **Traffic Analysis Tools:** A proxy tool for network traffic interception, such as [Mitmproxy](https://mitmproxy.org/) or [Reqable](https://reqable.com/).
+
+---
 
 ## 🔧 Setup Process
- 1. 🔄 **Install Modified IPA** via [Feather](https://github.com/CLARATION/Feather) or [Ksign](https://github.com/Nyasami/Ksign).
- 2. 💀 Use your personal certificate. Do NOT use public iOS IPA signing certificates.
- 3. 📊 Use any packet capture tool to monitor Messenger network traffic.
+ 1. ⬇️ **Download the IPA file** from the repository's Releases section.
+ 2. 🔄 **Install the IPA** using [Feather](https://github.com/CLARATION/Feather) or [Ksign](https://github.com/Nyasami/Ksign). *(Note: Use your personal certificate. Do NOT use public iOS IPA signing certificates.)*
+ 3. ⚙️ **Configure the local proxy** (e.g., mitmproxy) in your device's Wi-Fi settings.
+ 4. 🚀 **Open the Messenger app**. You will immediately see a popup: *"Allow 'Messenger' to find devices on local networks?"*. ⚠️ You **MUST** tap **Allow**. Once allowed, all traffic will be seamlessly captured in `mitmproxy/mitmweb` without any issues.
 
-## Looking for leatest version bypassed IPA? Contact me on Telegram
+---
+
+## 💼 Professional Services & Custom Solutions
+
+Are you looking for the **latest patched IPAs** or require specialized technical services? I offer professional, reliable solutions tailored to your needs. 
+
+**My Expertise Includes:**
+- 🔐 **SSL Pinning Bypass:** Custom bypass solutions for both Android and iOS applications.
+- 🔄 **Reverse Engineering:** Comprehensive analysis and reverse engineering of any Software, Mobile App, or API.
+- 🤖 **Bot Development:** Creation of advanced, automated bots for various platforms and customized use cases.
+
+If a specific bypass is not available on my GitHub, or if you have a custom project in mind, let's connect! I am highly active and ready to discuss your requirements.
+
 <p align="left">
   <a href="https://t.me/SHAJON" target="_blank">
-    <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
+    <img src="https://img.shields.io/badge/💬_Let's_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
 
-## Need Solution for SSL Pinning Bypass?
-- I provide SSL pinning bypass solutions for both Android and iOS applications.
-If a bypass for a specific application is not available on my GitHub, please contact me on Telegram for support. I am active on Telegram most of the time.
+---
+
+## ☕ Buy Me a Coffee
+
+If this project helped you, consider **buying me a coffee** — it keeps these bypasses alive and updated! ❤️
+
+| Coin | Network | Address |
+| :---: | :--- | :--- |
+| ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black) | Binance Pay (UID) | <pre><code>839622149</code></pre> |
+| ![USDT](https://img.shields.io/badge/USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white) | TRC20 [TRX Network] | <pre><code>TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH</code></pre> |
+| ![ANY Crypto](https://img.shields.io/badge/ANY%20Crypto-627EEA?style=for-the-badge&logo=ethereum&logoColor=white) | ETH / BSC | <pre><code>0x22d4f314acbf6055b0a37df8df68f9cd40ba889a</code></pre> |
+| ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) | Bitcoin Network | <pre><code>14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE</code></pre> |
